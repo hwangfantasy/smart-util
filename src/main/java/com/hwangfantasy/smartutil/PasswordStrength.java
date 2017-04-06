@@ -1,14 +1,20 @@
-package com.smartutil.validate;
+package com.hwangfantasy.smartutil;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * 密码强度校验
- * Created by yunfeiyang on 2016/12/2.
+ * @作者 yunfeiyang
+ * @创建时间: 2017/4/6 <br/>
+ * @方法描述: 密码强度校验. <br/>
  */
-public class PassWordValidate {
 
+public class PasswordStrength {
+    /**
+     * @作者: yunfeiyang
+     * @创建日期: 2017/4/6 9:45
+     * @方法描述:  密码强度校验
+     */
     public static Safelevel checkPasswordStrength(String c) {
         Safelevel d = Safelevel.WEAK;
         if (isEmptyPassword(c)) {
@@ -264,3 +270,4 @@ public class PassWordValidate {
     }
 
 }
+

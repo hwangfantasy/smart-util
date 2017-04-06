@@ -1,5 +1,8 @@
-package com.smartutil.util;
+package com.hwangfantasy.smartutil;
 
+import org.apache.axiom.util.base64.Base64Utils;
+
+import javax.crypto.Cipher;
 import java.io.ByteArrayOutputStream;
 import java.security.*;
 import java.security.interfaces.RSAPrivateKey;
@@ -8,15 +11,14 @@ import java.security.spec.PKCS8EncodedKeySpec;
 import java.security.spec.X509EncodedKeySpec;
 import java.util.HashMap;
 import java.util.Map;
-import org.apache.axiom.util.base64.Base64Utils;
-
-import javax.crypto.Cipher;
 
 /**
- * Created by yunfeiyang on 2017/3/24.
+ * @作者 yunfeiyang
+ * @创建时间: 2017/4/6 <br/>
+ * @方法描述: RSA加密解密. <br/>
  */
-public class RSAUtil {
 
+public class RSAUtil {
     /**
      * 加密算法RSA
      */
@@ -304,7 +306,7 @@ public class RSAUtil {
 
 
     public static void main(String[] args) throws Exception {
-        Map<String, Object> keyMap = new HashMap<>();
+        Map<String, Object> keyMap = new HashMap<String, Object>();
         String publicKey= null;
         String privateKey=null;
         try {
@@ -339,4 +341,3 @@ public class RSAUtil {
     }
 
 }
-
