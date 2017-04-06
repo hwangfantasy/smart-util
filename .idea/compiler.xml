@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="smart_util" />
         <module name="SmartUtil" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="smart_util" target="1.7" />
       <module name="SmartUtil" target="1.7" />
     </bytecodeTargetLevel>
   </component>

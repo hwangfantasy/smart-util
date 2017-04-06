@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/smart_util.iml" filepath="$PROJECT_DIR$/smart_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/smart-util.iml" filepath="$PROJECT_DIR$/smart-util.iml" />
     </modules>
   </component>
 </project>
