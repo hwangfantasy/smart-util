@@ -1,4 +1,4 @@
-package com.hwangfantasy.smartutil;
+package com.hwangfantasy.smartutil.encrypt;
 
 import org.apache.axiom.util.base64.Base64Utils;
 
@@ -13,7 +13,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @作者 yunfeiyang
+ * @作者 hwangfantasy
  * @创建时间: 2017/4/6 <br/>
  * @方法描述: RSA加密解密. <br/>
  */

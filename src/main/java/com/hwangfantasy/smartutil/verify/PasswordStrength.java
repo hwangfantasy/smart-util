@@ -1,17 +1,17 @@
-package com.hwangfantasy.smartutil;
+package com.hwangfantasy.smartutil.verify;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @作者 yunfeiyang
+ * @作者 hwangfantasy
  * @创建时间: 2017/4/6 <br/>
  * @方法描述: 密码强度校验. <br/>
  */
 
 public class PasswordStrength {
     /**
-     * @作者: yunfeiyang
+     * @作者: hwangfantasy
      * @创建日期: 2017/4/6 9:45
      * @方法描述:  密码强度校验
      */
