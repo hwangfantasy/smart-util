@@ -5,7 +5,7 @@
 - 在pom文件中先添加仓库
 ```
  <repository> 
-  <id>SmartUtil-mvn-repo</id>  
+  <id>smart_util-mvn-repo</id>  
   <url>https://raw.github.com/hwangfantasy/smart_util/mvn-repo/</url>  
   <snapshots> 
     <enabled>true</enabled>  
