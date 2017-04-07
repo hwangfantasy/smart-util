@@ -90,11 +90,11 @@
                     <noJekyll>true</noJekyll>
                     <outputDirectory>${project.build.directory}/mvn-repo
                     </outputDirectory>
-                    <branch>refs/heads/mvn-repo</branch>
+                    <branch>refs/heads/master</branch>
                     <includes>
                         <include>**/*</include>
                     </includes>
-                    <repositoryName>smart-util</repositoryName> <!-- github repo name -->
+                    <repositoryName>maven-repo</repositoryName> <!-- github repo name -->
                     <repositoryOwner>hwangfantasy</repositoryOwner> <!-- github username -->
                 </configuration>
                 <executions>
