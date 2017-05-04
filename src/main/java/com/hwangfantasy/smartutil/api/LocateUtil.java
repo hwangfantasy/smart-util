@@ -1,7 +1,7 @@
 package com.hwangfantasy.smartutil.api;
 
 import com.alibaba.fastjson.JSONObject;
-import com.hwangfantasy.smartutil.net.HttpUtil;
+import com.hwangfantasy.smartutil.net.HttpUtil1;
 import org.apache.commons.lang.StringUtils;
 import org.apache.log4j.Logger;
 
@@ -35,7 +35,7 @@ public class LocateUtil {
 
 		try {
 			long beginTime = System.currentTimeMillis();
-			response = HttpUtil.httpPost(LOCATE_BY_IP_URL, paras, "utf-8","GBK");
+			response = HttpUtil1.httpPost(LOCATE_BY_IP_URL, paras, "utf-8","GBK");
 			//System.out.println("百度ip用时： "+(System.currentTimeMillis() - beginTime));
 			LOGGER.info("locate time for ip=" + ip + " ; spendTime="
 					+ (System.currentTimeMillis() - beginTime) + "; cityName="
@@ -97,7 +97,7 @@ public class LocateUtil {
 
 		try {
 			long beginTime = System.currentTimeMillis();
-			response = HttpUtil.httpPost(LOCATE_BY_LOCATION_URL, paras,"utf-8", "utf-8");
+			response = HttpUtil1.httpPost(LOCATE_BY_LOCATION_URL, paras,"utf-8", "utf-8");
 			//System.out.println("百度经纬度用时: "+(System.currentTimeMillis() - beginTime));
 			LOGGER.info("locate time for longitude=" + longitude
 					+ " and latitude=" + latitude + " : "

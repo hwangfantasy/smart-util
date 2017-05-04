@@ -5,7 +5,7 @@ import org.apache.log4j.Logger;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
-import com.hwangfantasy.smartutil.net.HttpUtil;
+import com.hwangfantasy.smartutil.net.HttpUtil1;
 
 /**
  * 新浪生成短链接
@@ -32,7 +32,7 @@ public class ShortURLUtil {
 			String param = "source=" + AppKey + "&url_long=" + longUrl;
 			String response = null;
 			try {
-				response = HttpUtil.sendPost(SERVICE_URL, param);
+				response = HttpUtil1.sendPost(SERVICE_URL, param);
 				JSONObject backJson = JSONObject.parseObject(response);
 				if (backJson.containsKey("urls")) {
 					// 生成成功

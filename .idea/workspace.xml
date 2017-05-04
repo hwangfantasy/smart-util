@@ -2,9 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83d1a6c8-549e-4538-a29c-6945caf89333" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/FastJson.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1-sources.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1-sources.jar.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1-sources.jar.sha1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1.jar.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1.jar.sha1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1.pom" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1.pom.md5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/smart-util-1.0-20170407.011852-1.pom.sha1" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/smart-util-1.0-SNAPSHOT-sources.jar" afterPath="$PROJECT_DIR$/target/smart-util-1.0-SNAPSHOT-sources.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/smart-util-1.0-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/smart-util-1.0-SNAPSHOT.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/LocateUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/LocateUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/ShortURLUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/ShortURLUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java" afterPath="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/maven-metadata.xml" afterPath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/maven-metadata.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/maven-metadata.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/1.0-SNAPSHOT/maven-metadata.xml.sha1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/maven-metadata.xml" afterPath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/maven-metadata.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/maven-metadata.xml.md5" afterPath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/maven-metadata.xml.md5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/maven-metadata.xml.sha1" afterPath="$PROJECT_DIR$/target/mvn-repo/com/hwangfantasy/smart-util/maven-metadata.xml.sha1" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,106 +42,9 @@
       <file leaf-file-name="Xml2MapUtil.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/Xml2MapUtil.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2048">
+            <state relative-caret-position="160">
               <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CommonVerify.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/verify/CommonVerify.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="25" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#4119#4120#0" expanded="false" />
-                <element signature="e#4165#4166#0" expanded="false" />
-                <element signature="e#4345#4346#0" expanded="false" />
-                <element signature="e#4391#4392#0" expanded="false" />
-                <element signature="e#4580#4581#0" expanded="false" />
-                <element signature="e#4635#4636#0" expanded="false" />
-                <element signature="e#4813#4814#0" expanded="false" />
-                <element signature="e#4858#4859#0" expanded="false" />
-                <element signature="e#5044#5045#0" expanded="false" />
-                <element signature="e#5098#5099#0" expanded="false" />
-                <element signature="e#5284#5285#0" expanded="false" />
-                <element signature="e#5338#5339#0" expanded="false" />
-                <element signature="e#5520#5521#0" expanded="false" />
-                <element signature="e#5565#5566#0" expanded="false" />
-                <element signature="e#5745#5746#0" expanded="false" />
-                <element signature="e#5789#5790#0" expanded="false" />
-                <element signature="e#5969#5970#0" expanded="false" />
-                <element signature="e#6015#6016#0" expanded="false" />
-                <element signature="e#6194#6195#0" expanded="false" />
-                <element signature="e#6238#6239#0" expanded="false" />
-                <element signature="e#6416#6417#0" expanded="false" />
-                <element signature="e#6459#6460#0" expanded="false" />
-                <element signature="e#6638#6639#0" expanded="false" />
-                <element signature="e#6682#6683#0" expanded="false" />
-                <element signature="e#6860#6861#0" expanded="false" />
-                <element signature="e#6904#6905#0" expanded="false" />
-                <element signature="e#7088#7089#0" expanded="false" />
-                <element signature="e#7133#7134#0" expanded="false" />
-                <element signature="e#7313#7314#0" expanded="false" />
-                <element signature="e#7355#7356#0" expanded="false" />
-                <element signature="e#7533#7534#0" expanded="false" />
-                <element signature="e#7578#7579#0" expanded="false" />
-                <element signature="e#7760#7761#0" expanded="false" />
-                <element signature="e#7807#7808#0" expanded="false" />
-                <element signature="e#7990#7991#0" expanded="false" />
-                <element signature="e#8037#8038#0" expanded="false" />
-                <element signature="e#8218#8219#0" expanded="false" />
-                <element signature="e#8263#8264#0" expanded="false" />
-                <element signature="e#8451#8452#0" expanded="false" />
-                <element signature="e#8504#8505#0" expanded="false" />
-                <element signature="e#8681#8682#0" expanded="false" />
-                <element signature="e#8728#8729#0" expanded="false" />
-                <element signature="e#8920#8921#0" expanded="false" />
-                <element signature="e#8974#8975#0" expanded="false" />
-                <element signature="e#9166#9167#0" expanded="false" />
-                <element signature="e#9217#9218#0" expanded="false" />
-                <element signature="e#9393#9394#0" expanded="false" />
-                <element signature="e#9439#9440#0" expanded="false" />
-                <element signature="e#9624#9625#0" expanded="false" />
-                <element signature="e#9677#9678#0" expanded="false" />
-                <element signature="e#9856#9857#0" expanded="false" />
-                <element signature="e#9904#9905#0" expanded="false" />
-                <element signature="e#10078#10079#0" expanded="false" />
-                <element signature="e#10120#10121#0" expanded="false" />
-                <element signature="e#10292#10293#0" expanded="false" />
-                <element signature="e#10334#10335#0" expanded="false" />
-                <element signature="e#10514#10515#0" expanded="false" />
-                <element signature="e#10562#10563#0" expanded="false" />
-                <element signature="e#10751#10752#0" expanded="false" />
-                <element signature="e#10807#10808#0" expanded="false" />
-                <element signature="e#10995#10996#0" expanded="false" />
-                <element signature="e#11050#11051#0" expanded="false" />
-                <element signature="e#11223#11224#0" expanded="false" />
-                <element signature="e#11265#11266#0" expanded="false" />
-                <element signature="e#11469#11470#0" expanded="false" />
-                <element signature="e#11516#11517#0" expanded="false" />
-                <element signature="e#11692#11693#0" expanded="false" />
-                <element signature="e#11738#11739#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IdCardUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/verify/IdCardUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="9" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1234#1250#0" expanded="false" />
-                <element signature="e#1341#1358#0" expanded="false" />
-                <element signature="e#1449#1466#0" expanded="false" />
-                <element signature="e#16787#16788#0" expanded="false" />
-                <element signature="e#16873#16874#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,13 +54,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="320">
               <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#3328#3329#0" expanded="false" />
-                <element signature="e#3381#3382#0" expanded="false" />
-                <element signature="e#3432#3433#0" expanded="false" />
-                <element signature="e#3469#3470#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,7 +62,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3072">
+            <state relative-caret-position="3232">
               <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
               <folding />
             </state>
@@ -174,12 +92,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FastJson.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FastJson.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/FastJson.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
-              <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+            <state relative-caret-position="757">
+              <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HttpUtil.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="757">
+              <caret line="177" column="17" lean-forward="true" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -197,7 +127,7 @@
       <file leaf-file-name="MapToXMLString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/MapToXMLString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1632">
+            <state relative-caret-position="192">
               <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="27" />
               <folding />
             </state>
@@ -221,6 +151,7 @@
       <find>yunfeiyan</find>
       <find>yunfeiyang</find>
       <find>smart_util</find>
+      <find>jsonObject</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -255,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/file/FileUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/MapObjectUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/ShortURLUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/ShortURLUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/LocateUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/IpUtils.java" />
@@ -268,6 +198,8 @@
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/FastJson.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java" />
       </list>
     </option>
   </component>
@@ -305,7 +237,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -405,9 +337,39 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smart-util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartutil" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="net" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -849,12 +811,13 @@
       <workItem from="1491467067601" duration="581000" />
       <workItem from="1491468159343" duration="833000" />
       <workItem from="1491527755593" duration="905000" />
-      <workItem from="1493795431904" duration="148000" />
+      <workItem from="1493795431904" duration="494000" />
+      <workItem from="1493887450477" duration="981000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12745000" />
+    <option name="totallyTimeSpent" value="14072000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="0" width="1919" height="1084" extended-state="0" />
@@ -901,14 +864,13 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/file/FileOperation.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/file/ZipUitls.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/date/DateFormatUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/date/TimestampUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/date/DateUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/file/FileUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/MapObjectUtil.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil1.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/ShortURLUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/api/LocateUtil.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/IpUtils.java" />
@@ -1021,13 +983,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="17" column="10" lean-forward="false" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/IpUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -1046,7 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1054,7 +1008,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1062,7 +1015,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="8" column="24" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1070,77 +1022,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="11" column="25" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#4119#4120#0" expanded="false" />
-            <element signature="e#4165#4166#0" expanded="false" />
-            <element signature="e#4345#4346#0" expanded="false" />
-            <element signature="e#4391#4392#0" expanded="false" />
-            <element signature="e#4580#4581#0" expanded="false" />
-            <element signature="e#4635#4636#0" expanded="false" />
-            <element signature="e#4813#4814#0" expanded="false" />
-            <element signature="e#4858#4859#0" expanded="false" />
-            <element signature="e#5044#5045#0" expanded="false" />
-            <element signature="e#5098#5099#0" expanded="false" />
-            <element signature="e#5284#5285#0" expanded="false" />
-            <element signature="e#5338#5339#0" expanded="false" />
-            <element signature="e#5520#5521#0" expanded="false" />
-            <element signature="e#5565#5566#0" expanded="false" />
-            <element signature="e#5745#5746#0" expanded="false" />
-            <element signature="e#5789#5790#0" expanded="false" />
-            <element signature="e#5969#5970#0" expanded="false" />
-            <element signature="e#6015#6016#0" expanded="false" />
-            <element signature="e#6194#6195#0" expanded="false" />
-            <element signature="e#6238#6239#0" expanded="false" />
-            <element signature="e#6416#6417#0" expanded="false" />
-            <element signature="e#6459#6460#0" expanded="false" />
-            <element signature="e#6638#6639#0" expanded="false" />
-            <element signature="e#6682#6683#0" expanded="false" />
-            <element signature="e#6860#6861#0" expanded="false" />
-            <element signature="e#6904#6905#0" expanded="false" />
-            <element signature="e#7088#7089#0" expanded="false" />
-            <element signature="e#7133#7134#0" expanded="false" />
-            <element signature="e#7313#7314#0" expanded="false" />
-            <element signature="e#7355#7356#0" expanded="false" />
-            <element signature="e#7533#7534#0" expanded="false" />
-            <element signature="e#7578#7579#0" expanded="false" />
-            <element signature="e#7760#7761#0" expanded="false" />
-            <element signature="e#7807#7808#0" expanded="false" />
-            <element signature="e#7990#7991#0" expanded="false" />
-            <element signature="e#8037#8038#0" expanded="false" />
-            <element signature="e#8218#8219#0" expanded="false" />
-            <element signature="e#8263#8264#0" expanded="false" />
-            <element signature="e#8451#8452#0" expanded="false" />
-            <element signature="e#8504#8505#0" expanded="false" />
-            <element signature="e#8681#8682#0" expanded="false" />
-            <element signature="e#8728#8729#0" expanded="false" />
-            <element signature="e#8920#8921#0" expanded="false" />
-            <element signature="e#8974#8975#0" expanded="false" />
-            <element signature="e#9166#9167#0" expanded="false" />
-            <element signature="e#9217#9218#0" expanded="false" />
-            <element signature="e#9393#9394#0" expanded="false" />
-            <element signature="e#9439#9440#0" expanded="false" />
-            <element signature="e#9624#9625#0" expanded="false" />
-            <element signature="e#9677#9678#0" expanded="false" />
-            <element signature="e#9856#9857#0" expanded="false" />
-            <element signature="e#9904#9905#0" expanded="false" />
-            <element signature="e#10078#10079#0" expanded="false" />
-            <element signature="e#10120#10121#0" expanded="false" />
-            <element signature="e#10292#10293#0" expanded="false" />
-            <element signature="e#10334#10335#0" expanded="false" />
-            <element signature="e#10514#10515#0" expanded="false" />
-            <element signature="e#10562#10563#0" expanded="false" />
-            <element signature="e#10751#10752#0" expanded="false" />
-            <element signature="e#10807#10808#0" expanded="false" />
-            <element signature="e#10995#10996#0" expanded="false" />
-            <element signature="e#11050#11051#0" expanded="false" />
-            <element signature="e#11223#11224#0" expanded="false" />
-            <element signature="e#11265#11266#0" expanded="false" />
-            <element signature="e#11469#11470#0" expanded="false" />
-            <element signature="e#11516#11517#0" expanded="false" />
-            <element signature="e#11692#11693#0" expanded="false" />
-            <element signature="e#11738#11739#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1148,14 +1030,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1234#1250#0" expanded="false" />
-            <element signature="e#1341#1358#0" expanded="false" />
-            <element signature="e#1449#1466#0" expanded="false" />
-            <element signature="e#16787#16788#0" expanded="false" />
-            <element signature="e#16873#16874#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1163,13 +1038,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="320">
           <caret line="11" column="29" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3328#3329#0" expanded="false" />
-            <element signature="e#3381#3382#0" expanded="false" />
-            <element signature="e#3432#3433#0" expanded="false" />
-            <element signature="e#3469#3470#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1183,8 +1052,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3072">
+        <state relative-caret-position="3232">
           <caret line="101" column="40" lean-forward="false" selection-start-line="101" selection-start-column="40" selection-end-line="101" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/JXMConverter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/MapToXMLString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/Xml2MapUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
           <folding />
         </state>
       </provider>
@@ -1200,35 +1093,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/JXMConverter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/MapToXMLString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1632">
-          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/Xml2MapUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2048">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/object/FastJson.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
-          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+        <state relative-caret-position="757">
+          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="119" column="4" lean-forward="false" selection-start-line="119" selection-start-column="4" selection-end-line="225" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/hwangfantasy/smartutil/net/HttpUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="757">
+          <caret line="177" column="17" lean-forward="true" selection-start-line="177" selection-start-column="17" selection-end-line="177" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

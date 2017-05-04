@@ -17,6 +17,7 @@ com\hwangfantasy\smartutil\api\LocateUtil.class
 com\hwangfantasy\smartutil\object\MapToXMLString.class
 com\hwangfantasy\smartutil\date\DateUtils.class
 com\hwangfantasy\smartutil\date\TimestampUtils.class
+com\hwangfantasy\smartutil\object\FastJson.class
 com\hwangfantasy\smartutil\object\Xml2MapUtil.class
 com\hwangfantasy\smartutil\api\ShortURLUtil.class
 com\hwangfantasy\smartutil\object\JXMConverter.class
