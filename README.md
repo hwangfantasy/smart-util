@@ -5,8 +5,8 @@
 - 在pom文件中先添加仓库
 ```
  <repository> 
-  <id>maven-repo-master</id>  
-  <url>https://raw.github.com/hwangfantasy/maven-repo/master/</url>  
+  <id>maven-repo-fantasy</id>  
+  <url>https://raw.github.com/hwangfantasy/maven-repo/smart-util/</url>  
   <snapshots> 
     <enabled>true</enabled>  
     <updatePolicy>always</updatePolicy> 
